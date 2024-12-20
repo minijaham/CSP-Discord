@@ -1,5 +1,7 @@
 # CSP-Discord
-Clip Studio Paint Discord Rich Presence
+Clip Studio Paint Discord Rich Presence. The difference from the original repo is that it now displays the file that you're editing as well.
+
+I don't know how to dll so fuck it 🤷‍♂️
 
 ## Prerequisites
 - NodeJS
